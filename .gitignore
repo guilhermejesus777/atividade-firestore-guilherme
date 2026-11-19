@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Credenciais do Firebase - NUNCA publicar no GitHub
+serviceAccountKey.json
+serviceAccountKey*.json
+*.pem
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
