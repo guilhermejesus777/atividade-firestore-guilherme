@@ -214,8 +214,12 @@ Capturas reais do programa conectado ao Firestore:
 ![Consulta por data exata](capturas/07-consulta-data.png)
 ![Consulta por período](capturas/08-consulta-periodo.png)
 
+### Documentos gravados no Firestore
+![Console do Firestore com a coleção alunos](capturas/09-firestore-console.png)
+
 > As capturas usam dados fictícios e podem ser usadas na entrega do Google
-> Sala de Aula.
+> Sala de Aula. A pasta [`capturas/`](./capturas) contém todas as imagens em
+> tamanho original.
 
 ---
 
