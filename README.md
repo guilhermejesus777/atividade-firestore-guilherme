@@ -1,5 +1,9 @@
 # Atividade Prática — CRUD de Alunos com Firebase Firestore
 
+> 🔗 **Repositório:** <https://github.com/guilhermejesus777/atividade-firestore-guilherme>
+>
+> 📸 **Capturas de tela:** [`capturas/`](./capturas)
+
 Aplicação em **Node.js** com **menu no terminal** para manipular a coleção
 `alunos` no **Firebase Cloud Firestore** usando o **Firebase Admin SDK**.
 
